@@ -1,0 +1,17 @@
+1: jep, das würde ich auch als outlier ansehen, gibt auch im Datensatz nicht wirklich ähnliche dazu, das Molekül wird auch bei den anderen Verfahren relativ schnell als single in einen cluster sortiert
+
+2: ähnlich zu 1, also auch eher outlier usw., es gibt noch ein zwei andere wie diese, alle reativ groß, Ringe mit viel Sauerstoff, aber im Detail sind sie wahrscheinlich nicht so ähnlich, bei den anderen Verfahren wurde diese drei zusammen bei höheren k in ein cluster gepackt
+
+3: das ist interessant, die sind bei mir zusammen mit drei anderen in einem cluster, hätte aber innerhalb meines clusters diese als am unähnlichsten eingestuft, zwei von den anderen drei sind hier in subcluster 7 (275182 und 73078) und das fünfte in subcluster 5 (6084)
+
+4: Teile von meinen cluster 1 sind hier drin, aber auch ein paar interessante Moleküle (11223, 6246, 80311), aber wenn man die ein bisschen anders auszeichnet, bekommt man eine Idee was sich der Computer dabei "gedacht" hat...ob es chemisch Sinn macht...hmm, vielleicht ist genau das die Ungenauigkeit, die wir/ich gerne hätte(n)
+
+5: vielleicht weniger als ganze Gruppe mit einer Ähnlichkeit, aber einzelne Moleküle innerhalb
+
+6: bis auf 121304016 alle compounds, die etwas mit DNA zu tun haben (Basen- oder Nucleosid-Analoga) sind hier drin (vgl. mein c3), zusätzlich sind noch 4756, 1794 und 6197 drin
+
+7: 275182 und 73078 macht Sinn, das Dritte dazu, naja, aber das ist auch so ein Kandidat, der irgendwie nirgends richtig dazu passt
+
+8: die Steroide, mit der Feinaufteilung über die wir ja jetzt schon mehrmals gesprochen haben, das glykosilierte Steroid fehlt aber, ansonsten entspricht es meinem c2
+
+finde auch auffällig, dass das ziemlich gut dem Distanz-Plot entspricht und somit auch den Gruppen, die ich gestern schonmal anhand des Plots gemacht hatte

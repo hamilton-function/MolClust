@@ -1,0 +1,31 @@
+c1: Reste mit ähnlicher Größe?
+
+c2: Teil vom vorherigen cluster c2 in k10, alle compounds aus den vorherigen cluster, die Ringe sind
+
+c3: derselbe cluster
+
+c4: Teil vom vorherigen cluster c5 in k10, Verknüpfungen innerhalb des Rings sind ausschließlich Peptid-Bindungen
+
+c5: fast derselbe cluster wie c3 bei k10, 4046 ist dazu gekommen (passt eigentlich ganz gut in die Beschreibung von k10-c3), 10219, 73078 und 275182 sind raus und in einen eigenen cluster, diese drei compounds habe ich auch immer in demselben cluster
+
+c6: derselbe cluster
+
+c7: wieder die beiden ähnlichen Peptid-Analoga, die immer mit anderen Molekülen zusammen in clustern landen
+
+c8: die drei anderen aus cluster k10-c3, das vierte Molekül dazu ist wieder eher ein outlier, 73078 und 275182 sind sehr ähnlich, sie unterscheiden sich nur in einer Gruppe (Hydroxyl und Methoxy), 10219, hat ähnliche Gruppen (Benzol mit 2 Methoxy und dem N-haltigen gesättigten 6-Ring dran)
+
+c9: 37542, 10445549, 57336515 und 135398748 sind Nucleosid-Analoga, die bei mir auch in einem cluster sind, allerdings habe ich noch noch ein paar andere Moleküle in meinem cluster (Nucleotid-Analoga, die größer sind und Basen-Analoga, die kleiner sind), evtl. spielt die Größe auch eine Rolle weswegen die anderen Moleküle in diesem cluster gelandet sind
+
+c10: derselbe cluster
+
+c11: kleine Moleküle
+
+c12: derselbe cluster
+
+c13: Reste?
+
+c14: auch wieder Peptid-Analoga, mit Ausnahme des Nucleotid-Analogon 121304016, 3189 ist neu dazu gekommen, habe ich aber auch zu den Peptid-Analoga sortiert, die anderen beiden zueinander ähnlcihen sind wieder raus (jetzt in cluster c7)
+
+c15: zweiter Teil von vorherigen cluster c2 in k10, hier sind alle compounds drin, die kein Ring sind, d.h. die Aufteilung des clusters macht Sinn
+
+c16: zweiter Teil vom vorherigen cluster c5 in k10, Verknüpfungen innerhalb des Rings sind Peptid-Bindungen und Ester, d.h. die Aufteilung des clusters macht so Sinn

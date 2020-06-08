@@ -1,0 +1,22 @@
+-----------------------------------------------spectral-------------------------------------------
+k16
+
+k10
+
+k6
+c1  medoid:  [10830, 'Diperodon']
+c2  medoid:  [68539, 'Clomipramine hydrochloride']
+c3  medoid:  [5282362, '4â€™-Hydroxychalcone']
+c4  medoid:  [72287, 'Methotrimeprazine']
+c5  medoid:  [2723601, '6-Thioguanine']
+c6  medoid:  [2995, 'Desipramine']
+
+k4
+c1  medoid:  [62882, 'Propranolol']
+c2  medoid:  [2733525, 'Tamoxifen citrate']
+c3  medoid:  [10127622, 'Selumetinib']
+c4  medoid:  [443635, 'Acetophenazine']
+
+k2
+c1  medoid:  [68539, 'Clomipramine hydrochloride']
+c2  medoid:  [3658, 'Hydroxyzine']

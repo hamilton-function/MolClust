@@ -1,0 +1,87 @@
+k2
+wird hier nach Größe sortiert?
+c1: große Moleküle, viele der großen Ringe, aber auch 439501, 441145 oder 3085092 drin, die haven aber dann auch wieder die Gemeinsamkeit mit manchen der großen Ringen, dass sie diese gesättigten Ringe mit Sauerstoff drin habe (manches sind zusätzlich noch Zucker bzw. Zuckerderivate)
+c2: der Rest, eher die kleineren Moleküle, sind aber auch ein paar große drin, z.B. 166138
+
+
+
+
+
+k4
+c1: große Moleküle mit viel Sauerstoff drin, medoid erscheint mir vernünftig, ein Teil von c1 in k2
+c2: ein Teil von c2 in k2, kann nicht genau sagen warum diese 28 compounds ausgewählt wurden, ein paar Gruppen kann ich erkennen, vielleicht wurden die Gruppen zusammen in diesen Cluster gepackt, evtl. spielt aber auch wieder die Größe eine Rolle, alle Moleküle sind eher größer als die in c4 bzw. die eher größeren von k2-c2
+c3: zweiter Teil von c1 in k2, die drei Ringe unterscheiden sich von den anderen in c1 dadurch, dass der Ring durch viele Säureamid- bzw. Ester-Gruppen aufgebaut ist, während in den anderen hauptsächlich C-C-Bindungen vorkommen, 441139 unterscheidet sich ein bisschen mehr von den anderen, d.h. es macht Sinn, dass eines der anderen beiden das Medoid ist
+c4: zweiter Teil von c2 in k2, eher kleinere Moleküle in Vergleich zu c2, ansonsten ist das hier wohl wieder eher die Reste-Sammlung
+
+
+
+
+
+k6
+c1: sieht mir ziemlich ähnlich zu k4-c2 aus, nur 6 Moleküle weniger (evtl. die 6 Steroide...) <- jep, die sind raus
+c2: solle jetzt eigentlich = k4-c4 sein (wollte ich jetzt aber nicht genau kontrollieren)
+c3: = k4-c3
+c4: ist k4-c1 ohne 122143 (das landet dann in einem eigenen cluster -> c5)
+c5: das einzelne aus k4-c1, macht schon irgendwie Sinn das rauszunehmen
+c6: 6 der 7 Steroide, das 7te Steroid ist in c4 drin, dass das dort gelandet ist, liegt wahrscheinlich an der Glykolisierung
+
+
+
+
+
+k10
+c1 und c2 von k6 wurden in 6 neue cluster aufgeteilt, k6-c1 wurde in 4 und k6-c2 in 2 cluster aufgeteilt
+
+entstanden aus k6-c1:
+da zwei der neuen Cluster singles/outlier sind wurde der cluster praktisch auch wieder in zwei neue aufgeteilt, wirklich offensichtlich ist die Einteilung aber nicht, müsste es noch genauer analysieren, um vielleicht eine Idee zu bekommen
+c2: finde die noch immer recht unterschiedlich, haben alle etwa dieselbe Größe, ein paar Paare oder kleine Gruppen da drin sind zu erkennen
+c5: hier sind drei Peptid-Analoga drin, Medoid ist eines der Peptid-Ananloga -> ich hätte wahrscheinlich auch eines von denen genommen
+c8: single, würde ich auch als outlier ansehen, aber auch noch zwei "seltsame" Moleküle (14957 und 11787114) und ein Nucleotid-Analogon (121304016)
+c9: single, ist ein Peptid-Analogon, es gibt auch noch andere Peptid-Analoga, aber durch die 3 basischen Aminosäuren da drin unterscheidet sich dieses schon von den anderen Peptid-Analoga, die eher hydrophobe Aminsäuren enthalten, also ist es schon ok, wenn es das aussortiert
+
+entstanden aus k6-c2:
+hier ist die Aufteilung auch nicht wirklich offensichtlich...Größe?...kp
+c3: hier sind zumindest mal alle mit der Phenothiazin-Gruppe oder dessen Derivaten aus k6-c2 drin...sind das auch alle des gesamten Datnensatz? (vgl. mein clsuter 1)
+c4: hier sind zumindest mal alle Basen- und Nucleosid-Analoga aus k6-c2 drin gelandet...sind das auch alle des gesamten Datensatz? (vgl. mein cluster 3)
+ein paar der Paare oder kleinen Cluster sind hier bestimmt auch noch zusammen, aber da müsste ich mir nochmal genau im Detail anschauen
+
+c1: = k6-c4
+c6: = k6-c6
+c7: = k6-c3
+c10: = k6-c5
+
+
+
+
+
+k16
+
+entstanden aus k10-c1:
+c3: Ringe aus vorherigem cluster
+c5: Ketten aus vorherigem cluster
+
+entstanden aus k10-c2:
+c11: der Rest aus k10-c2...gibt es Gemeinsamkeiten...
+c14: ja, die zwei sind sehr ähnlich, die unterscheiden sich nur in einer Gruppe (Hydroxyl- und Methoxy-Gruppe)
+interessant ist, dass Emetine (10219) noch in c11 geblieben ist...11707110 finde ich auch komisch, kann nicht genau sagen warum...
+
+entstanden aus k10-c3:
+die Unterteilung ist mir auch nicht ganz klar
+c2:
+c12:
+c13:
+
+entstanden aus k10-c4:
+c7: die anderen aus k10-c4?, also größere Moleküle, hier sind dann die Nucleosid-Analoga aus k10-c4 drin 
+c15: kleine Moleküle, die Basen-Analoga aus k10-c4 aber auch andere
+hier werden die Nucleosid-Analoga von den Basen-Analoga getrennt, wahrscheinlich aufgrund der Größe bzw. Zucker(-Derivat) dran oder nicht
+
+entstanden aus k10-c7:
+c4: Ring enthält nur Säure-Amid-Bindungen
+c8: Ring enthält beides (Säureamid und Ester)
+
+c1: = k10-c5
+c6: = k10-c6
+c9: = k10-c9
+c10: = k10-c10
+c16: = k10-c8

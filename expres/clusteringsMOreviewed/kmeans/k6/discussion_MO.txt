@@ -1,0 +1,7 @@
+c2: derselbe wie c1 bei k4
+
+c4 und c6: war in k4 der cluster c4, wurde aufgeteilt, dieses ein rauszunehmen macht für mich Sinn
+
+c5: 92727, 392622 und 9962075 sind Peptid-Analoga (würde mal auf Protease-Inhibitoren tippen), besonders 92727 und 392622 sind sehr ähnlich, ich habe beide in einen ähnlichen cluster als zentrale Elemente gewählt, beide haben in der Mitte des compounds dieselbe Struktur, die den AS VFF entsprechen
+
+c1 und c3: sind wieder die Reste, evtl. wieder nach Größe aufgeteilt? etwas anderes fällt mir nicht wirklich auf

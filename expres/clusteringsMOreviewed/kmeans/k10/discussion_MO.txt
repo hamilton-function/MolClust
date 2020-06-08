@@ -1,0 +1,16 @@
+c2: derselbe cluster wie c4 bei k6
+c5: derselbe cluster
+c6: derselbe cluster
+
+c7 und c9: waren beide vorher mit zwei anderen Molekülen, die untereinander sehr ähnlich waren zusammen in einem cluster (k6, c5), die beiden anderen Moleküle sind jetzt mit anderen Molekülen in c10 gelandet
+
+c8: diesen cluster habe ich auch fast genauso, alle haben ein Steroid-Gerüst oder ein steroid-ähnliches Gerüst, ich habe zusätzlich noch 439501 drin, das habe ich an anderer Stelle schon geschrieben, dass ich es nachvollziehen kann, dass es dieses in den anderen cluster (hier c2) gepackt hatte, aber eigentlich wäre es schon besser wenn es hier wäre, habe ein anderes zentrales Molekül, war aber schwer zu entscheiden, da ich 4 sehr ähnliche zur Auswahl hatte
+
+c1: Reste?, eher kleiner?
+
+c4: Reste?, fast alle haben 2-3 aromatische Ringsysteme...solche compounds gibt es aber auch in c1...also doch irgendwie wieder etwas mit der Größe???
+
+c3: ein Strukturelement das fast alle Moleküle haben ist ein ungesättigter 6-Ring mit 1-2 N-Atomen drin, die gibt es aber auch noch in anderen clustern, z.B. c1, und manche Moleküle erfüllen das nicht streng, ich denke da gibt es noch ein weiteres Kriterium, evtl. ein Benzol-Ring mit 2 O-Substituenten oder Halogen-Substituenten, haben auch nicht alle, aber viele...evtl. eine Kombination aus mehreren Dingen, da all die Sachen einzeln auch in anderen Molekülen/clustern vorkommen
+
+c10: hier sind die beiden anderen Peptid-Analoga (92727 und 392622) drin, 213039 passt für mich auch dazu, sieht für mich auch nach einen Peptid-Analogon aus, als medoid finde ich es auch ok, bei 14957 hatte ich auch Probleme es irgendwi dazu zu packen, ist aber halbwegs nachvollziehbar, dass es hier gelandet ist, 121304016 kann ich ein wenig verstehen, finde es aber nicht gut, da es für mich nach einem Nucleotid-Analogon aussieht und die anderen davon in einem anderen cluster sind, 11787114 verstehe ich überhaupt nicht...vielleicht die Größe???
+

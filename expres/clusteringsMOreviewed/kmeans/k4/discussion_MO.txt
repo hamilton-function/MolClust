@@ -1,0 +1,6 @@
+c1: ok, ich glaube das sollte wohl relativ klar sein, den Cluster habe ich so auch, konnte mich aber nicht entscheiden ob 5284373 oder 11513676 mein zentrales compound sein soll, da die beiden sich ja wirklich kaum unterscheiden
+
+
+c4: den habe ich fast genauso, habe auch 78358496 als zentrales Molekül ausgewählt, ich habe 439501 nicht in diesem cluster, aber ich kann verstehen, das es hierhin sortiert wird, mein zusätzliches ist 11787114, was für mich aber auch schon fast eher ein outlier ist
+
+c2 und c3: hier habe ich wieder den Eindruck, dass einfach alle anderen Moleküle hier drin gelandet sind, evtl. wieder aufgeteilt nach Größe, aber nicht ganz so eindeutig wie bei k2

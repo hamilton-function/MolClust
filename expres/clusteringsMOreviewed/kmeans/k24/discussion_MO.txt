@@ -1,0 +1,47 @@
+c1: fast derselbe wie k16-c9, 65028 ist raus, das ist gut, da es kein Nucleosid-Analogon ist
+
+c2:
+
+c3: derselbe
+
+c4:
+
+c5:
+
+c6: derselbe
+
+c7: derselbe
+
+c8:
+
+c9:
+
+c10: fast derselbe wie k16-c11, 3117 raus, 4756 rein (finde ich etwas groß für diesen cluster)
+
+c11: derselbe
+
+c12:
+
+c13:
+
+c14:
+
+c15: derselbe
+
+c16:
+
+c17:
+
+c18:
+
+c19:
+
+c20: derselbe
+
+c21:
+
+c22:
+
+c23:
+
+c24:

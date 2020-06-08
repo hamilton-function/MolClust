@@ -1,0 +1,101 @@
+k16l4
+c1  :  [[2726, 'Chlorpromazine', array([8.75275463])], [68539, 'Clomipramine hydrochloride', array([0.])], [72287, 'Methotrimeprazine', array([10.23446085])], [4926, 'Promazine', array([12.84718929])]]
+c10  :  [[443635, 'Acetophenazine', array([35.15399095])], [10127622, 'Selumetinib', array([0.])], [5316743, 'Dihydrotanshinone', array([43.35205824])], [213039, 'Darunavir', array([68.45786151])]]
+c11  :  [[4756, 'Phenazopyridine', array([22.84218406])], [4362, 'N-Ethylmaleimide', array([22.5952162])], [6103, 'Zoxazolamine', array([0.])], [98888, 'Aziridine', array([29.44481171])]]
+c12  :  [[10830, 'Diperodon', array([0.])], [2536, 'Camostat', array([38.78231565])], [71420, 'Loperamide', array([41.56997488])], [92727, 'Lopinavir', array([78.41701559])]]
+c13  :  [[2719, 'Chloroquine', array([0.])], [3634, 'Hycanthone', array([9.78720921])], [135398748, 'Penciclovir', array([34.45723074])], [33958, 'Tilorone', array([37.81783545])]]
+c14  :  [[6741, 'Methylprednisolone', array([21.21222798])], [9547215, 'Bufalin', array([31.46032906])], [5754, 'Hydrocortisone', array([0.])], [6708713, 'Dihydrocelastryl diacetate', array([68.91861052])]]
+c15  :  [[2119, 'Alprenolol', array([36.80455252])], [446541, 'Mycophenolic acid', array([0.])], [5281078, 'Mycophenolate mofetil', array([28.25748703])], [131411, 'Arbidol (Umifenovir)', array([40.3776523])]]
+c16  :  [[1794, 'Hexamethylene amiloride', array([61.49994629])], [3658, 'Hydroxyzine', array([45.82845713])], [62978, 'Doxazosin mesylate', array([0.])], [5284616, 'Rapamycin', array([173.54411475])]]
+c2  :  [[11223, 'Chlorphenoxamine hydrochloride', array([17.4143342])], [66069, 'Triflupromazine hydrochloride', array([0.])], [5440, 'Thiethylperazine', array([17.62507843])], [2995, 'Desipramine', array([17.77157883])]]
+c3  :  [[6246, 'Amodiaquine dihydrochloride', array([0.])], [1013959, 'Pyrimidine (FA-613)', array([23.18785981])], [80311, 'Chloropyramine', array([28.20976053])], [10219, 'Emetine', array([68.00723493])]]
+c4  :  [[16682730, 'Phenylmercuric acetate', array([28.02721285])], [65335, 'Ticlopidine', array([23.77406154])], [5280953, 'Harmine', array([0.])], [492405, 'Favipiravir', array([28.48570388])]]
+c5  :  [[37542, 'Ribavirin', array([0.])], [10445549, 'Galidesivir', array([28.30175235])], [57336515, 'Gemcitabine hydrochloride', array([28.5196384])], [121304016, 'Remdesivir', array([102.0372755])]]
+c6  :  [[6197, 'Cycloheximide', array([0.])], [72378, 'Lycorine', array([40.98164558])], [441082, 'Conessine', array([57.2570881])], [11787114, 'Silvestrol', array([116.63750504])]]
+c7  :  [[65028, 'Oseltamivir', array([75.93783384])], [3189, 'E-64-D', array([66.04503631])], [14957, 'Antimycin A', array([0.])], [9962075, 'Dec-RVKR-CMK', array([133.41309695])]]
+c8  :  [[6602611, 'Fluphenazine hydrochloride', array([38.72490368])], [2247, 'Astemizole', array([0.])], [3396, 'Fluspirilene', array([31.35967885])], [166138, 'ADS-J1', array([176.91042988])]]
+c9  :  [[5282362, '4â€™-Hydroxychalcone', array([0.])], [445154, 'Resveratrol', array([9.34813596])], [41684, 'Nitazoxanide', array([29.83231779])], [2723601, '6-Thioguanine', array([47.85792088])]]
+
+
+k10l10
+c1  :  [[135398748, 'Penciclovir', array([0.])], [65335, 'Ticlopidine', array([40.80946221])], [2723601, '6-Thioguanine', array([40.48294463])], [667490, '6-Mercaptopurine', array([45.48609078])]]
+c10  :  [[2536, 'Camostat', array([0.])], [6084, 'Papaverine', array([52.19427898])], [4413, 'Nafamostat', array([30.68072863])], [446541, 'Mycophenolic acid', array([52.2444812])]]
+c2  :  [[443635, 'Acetophenazine', array([0.])], [80311, 'Chloropyramine', array([32.10482662])], [5280953, 'Harmine', array([26.83482233])], [4756, 'Phenazopyridine', array([34.54278962])]]
+c3  :  [[2726, 'Chlorpromazine', array([0.])], [4926, 'Promazine', array([4.75822645])], [6014, 'Promethazine hydrochloride', array([11.53527808])], [72287, 'Methotrimeprazine', array([13.25792093])]]
+c4  :  [[5440, 'Thiethylperazine', array([47.86520819])], [10219, 'Emetine', array([41.30635467])], [62978, 'Doxazosin mesylate', array([0.])], [2733525, 'Tamoxifen citrate', array([54.81167796])]]
+c5  :  [[16760621, 'PJ34', array([0.])], [6246, 'Amodiaquine dihydrochloride', array([26.55445762])], [5284550, 'Dosulepin', array([27.40332798])], [62882, 'Propranolol', array([30.42382931])]]
+c6  :  [[3396, 'Fluspirilene', array([0.])], [2247, 'Astemizole', array([31.35967885])], [71420, 'Loperamide', array([33.1090921])], [3658, 'Hydroxyzine', array([44.90492793])]]
+c7  :  [[72378, 'Lycorine', array([0.])], [10445549, 'Galidesivir', array([41.20729987])], [57336515, 'Gemcitabine hydrochloride', array([43.54071963])], [37542, 'Ribavirin', array([43.77750579])]]
+c8  :  [[3634, 'Hycanthone', array([0.])], [2719, 'Chloroquine', array([22.43582092])], [10127622, 'Selumetinib', array([33.91921472])], [33958, 'Tilorone', array([38.1017264])]]
+c9  :  [[1013959, 'Pyrimidine (FA-613)', array([0.])], [68539, 'Clomipramine hydrochloride', array([29.6133252])], [5316743, 'Dihydrotanshinone', array([32.27027731])], [131411, 'Arbidol (Umifenovir)', array([34.55051015])]]
+
+
+k10l8
+c1  :  [[16760621, 'PJ34', array([0.])], [1013959, 'Pyrimidine (FA-613)', array([15.42950306])], [4926, 'Promazine', array([21.06623288])], [2726, 'Chlorpromazine', array([21.13467805])]]
+c10  :  [[6741, 'Methylprednisolone', array([0.])], [5754, 'Hydrocortisone', array([21.21222798])], [9547215, 'Bufalin', array([40.07024386])], [6708713, 'Dihydrocelastryl diacetate', array([68.90080043])]]
+c2  :  [[6246, 'Amodiaquine dihydrochloride', array([0.])], [2719, 'Chloroquine', array([24.9894004])], [131411, 'Arbidol (Umifenovir)', array([30.19333492])], [5316743, 'Dihydrotanshinone', array([39.2032446])]]
+c3  :  [[68539, 'Clomipramine hydrochloride', array([0.])], [2995, 'Desipramine', array([13.69181086])], [80311, 'Chloropyramine', array([20.28263557])], [72287, 'Methotrimeprazine', array([20.84681033])]]
+c4  :  [[3658, 'Hydroxyzine', array([0.])], [443635, 'Acetophenazine', array([41.71617059])], [5280953, 'Harmine', array([47.8779801])], [10296883, 'Sotrastaurin', array([48.29782561])]]
+c5  :  [[10445549, 'Galidesivir', array([0.])], [37542, 'Ribavirin', array([28.30175235])], [57336515, 'Gemcitabine hydrochloride', array([34.04799348])], [72378, 'Lycorine', array([41.20729987])]]
+c6  :  [[2723601, '6-Thioguanine', array([22.23581338])], [492405, 'Favipiravir', array([0.])], [667490, '6-Mercaptopurine', array([23.2660879])], [16682730, 'Phenylmercuric acetate', array([24.05373428])]]
+c7  :  [[3062316, 'Dasatinib', array([29.08477387])], [10127622, 'Selumetinib', array([37.70281619])], [62978, 'Doxazosin mesylate', array([0.])], [941651, 'Thiothixene', array([40.9961157])]]
+c8  :  [[41684, 'Nitazoxanide', array([0.])], [5282362, '4â€™-Hydroxychalcone', array([31.83722174])], [445154, 'Resveratrol', array([38.50277558])], [3634, 'Hycanthone', array([39.34736864])]]
+c9  :  [[62882, 'Propranolol', array([0.])], [2119, 'Alprenolol', array([21.51454607])], [5284550, 'Dosulepin', array([33.38038974])], [2733525, 'Tamoxifen citrate', array([46.21638675])]]
+
+
+k8l8
+c1  :  [[1013959, 'Pyrimidine (FA-613)', array([15.30285652])], [16760621, 'PJ34', array([0.])], [72287, 'Methotrimeprazine', array([19.11127987])], [4926, 'Promazine', array([21.50434692])]]
+c2  :  [[6741, 'Methylprednisolone', array([0.])], [5754, 'Hydrocortisone', array([21.21222798])], [9547215, 'Bufalin', array([40.07024386])], [6708713, 'Dihydrocelastryl diacetate', array([68.90080043])]]
+c3  :  [[3658, 'Hydroxyzine', array([0.])], [443635, 'Acetophenazine', array([41.71617059])], [5280953, 'Harmine', array([47.8779801])], [10296883, 'Sotrastaurin', array([48.29782561])]]
+c4  :  [[10445549, 'Galidesivir', array([0.])], [37542, 'Ribavirin', array([28.30175235])], [57336515, 'Gemcitabine hydrochloride', array([34.04799348])], [72378, 'Lycorine', array([41.20729987])]]
+c5  :  [[41684, 'Nitazoxanide', array([0.])], [5282362, '4â€™-Hydroxychalcone', array([31.83722174])], [445154, 'Resveratrol', array([38.50277558])], [3634, 'Hycanthone', array([39.34736864])]]
+c6  :  [[2719, 'Chloroquine', array([26.82848112])], [3316, 'Exalamide', array([0.])], [135398748, 'Penciclovir', array([30.95288145])], [98888, 'Aziridine', array([32.02569766])]]
+c7  :  [[11223, 'Chlorphenoxamine hydrochloride', array([11.5327886])], [68539, 'Clomipramine hydrochloride', array([0.])], [5284550, 'Dosulepin', array([10.63767276])], [2995, 'Desipramine', array([11.64410591])]]
+c8  :  [[3062316, 'Dasatinib', array([29.08477387])], [10127622, 'Selumetinib', array([37.70281619])], [62978, 'Doxazosin mesylate', array([0.])], [941651, 'Thiothixene', array([40.9961157])]]
+
+
+k4l25
+c1  :  [[68539, 'Clomipramine hydrochloride', array([0.])], [2726, 'Chlorpromazine', array([15.99192155])], [4926, 'Promazine', array([19.01317507])], [72287, 'Methotrimeprazine', array([21.81265713])]]
+c2  :  [[3658, 'Hydroxyzine', array([0.])], [5440, 'Thiethylperazine', array([28.00416557])], [2995, 'Desipramine', array([33.39778381])], [6602611, 'Fluphenazine hydrochloride', array([33.92468127])]]
+c3  :  [[1013959, 'Pyrimidine (FA-613)', array([0.])], [16760621, 'PJ34', array([21.87007749])], [11223, 'Chlorphenoxamine hydrochloride', array([29.61546061])], [5282362, '4â€™-Hydroxychalcone', array([31.14839687])]]
+c4  :  [[6246, 'Amodiaquine dihydrochloride', array([0.])], [3634, 'Hycanthone', array([22.23265487])], [2719, 'Chloroquine', array([24.9894004])], [10127622, 'Selumetinib', array([27.5048654])]]
+
+
+k4l20
+c1  :  [[16682730, 'Phenylmercuric acetate', array([35.4996678])], [5280953, 'Harmine', array([34.22513107])], [3316, 'Exalamide', array([0.])], [98888, 'Aziridine', array([35.61569815])]]
+c2  :  [[10445549, 'Galidesivir', array([40.58558737])], [72378, 'Lycorine', array([0.])], [6197, 'Cycloheximide', array([40.80469931])], [57336515, 'Gemcitabine hydrochloride', array([43.24052759])]]
+c3  :  [[6014, 'Promethazine hydrochloride', array([17.51068469])], [72287, 'Methotrimeprazine', array([0.])], [2726, 'Chlorpromazine', array([17.91407215])], [4926, 'Promazine', array([19.30380679])]]
+c4  :  [[5440, 'Thiethylperazine', array([23.38758686])], [3658, 'Hydroxyzine', array([0.])], [68539, 'Clomipramine hydrochloride', array([27.16226818])], [10830, 'Diperodon', array([29.70218183])]]
+
+
+k4l15
+c1  :  [[5280953, 'Harmine', array([0.])], [65335, 'Ticlopidine', array([20.19203095])], [443635, 'Acetophenazine', array([21.42841428])], [6103, 'Zoxazolamine', array([23.14376487])]]
+c2  :  [[72378, 'Lycorine', array([0.])], [10445549, 'Galidesivir', array([39.88027408])], [5316743, 'Dihydrotanshinone', array([40.21581667])], [37542, 'Ribavirin', array([40.95622914])]]
+c3  :  [[72287, 'Methotrimeprazine', array([0.])], [6014, 'Promethazine hydrochloride', array([14.14978221])], [2726, 'Chlorpromazine', array([15.37047697])], [4926, 'Promazine', array([17.22010756])]]
+c4  :  [[2247, 'Astemizole', array([34.11195849])], [3658, 'Hydroxyzine', array([27.29627251])], [10830, 'Diperodon', array([0.])], [2536, 'Camostat', array([35.22124235])]]
+
+
+k4l10
+c1  :  [[72378, 'Lycorine', array([0.])], [57336515, 'Gemcitabine hydrochloride', array([33.47193316])], [10445549, 'Galidesivir', array([33.95441413])], [37542, 'Ribavirin', array([35.79521898])]]
+c2  :  [[68539, 'Clomipramine hydrochloride', array([0.])], [2995, 'Desipramine', array([10.25570117])], [2726, 'Chlorpromazine', array([12.45362077])], [72287, 'Methotrimeprazine', array([13.91887943])]]
+c3  :  [[10830, 'Diperodon', array([0.])], [3658, 'Hydroxyzine', array([23.12180836])], [71420, 'Loperamide', array([33.11677675])], [2733525, 'Tamoxifen citrate', array([34.34041107])]]
+c4  :  [[443635, 'Acetophenazine', array([14.38742632])], [1013959, 'Pyrimidine (FA-613)', array([0.])], [6246, 'Amodiaquine dihydrochloride', array([17.25306925])], [41684, 'Nitazoxanide', array([18.47560557])]]
+
+
+k4l5
+c1  :  [[72287, 'Methotrimeprazine', array([0.])], [68539, 'Clomipramine hydrochloride', array([5.91144611])], [11223, 'Chlorphenoxamine hydrochloride', array([9.70378302])], [2726, 'Chlorpromazine', array([9.82615773])]]
+c2  :  [[3658, 'Hydroxyzine', array([0.])], [3062316, 'Dasatinib', array([24.66427404])], [10830, 'Diperodon', array([16.66904046])], [1794, 'Hexamethylene amiloride', array([27.71785349])]]
+c3  :  [[5440, 'Thiethylperazine', array([14.38907266])], [4046, 'Mefloquine', array([0.])], [6602611, 'Fluphenazine hydrochloride', array([18.82052245])], [941651, 'Thiothixene', array([19.60431512])]]
+c4  :  [[10127622, 'Selumetinib', array([11.25164536])], [6246, 'Amodiaquine dihydrochloride', array([0.])], [131411, 'Arbidol (Umifenovir)', array([12.09240498])], [3634, 'Hycanthone', array([12.73891027])]]
+
+
+k4l4
+c1  :  [[5754, 'Hydrocortisone', array([12.19308294])], [441082, 'Conessine', array([0.])], [9547215, 'Bufalin', array([8.73312463])], [6741, 'Methylprednisolone', array([15.25388013])]]
+c2  :  [[92727, 'Lopinavir', array([45.47234105])], [213039, 'Darunavir', array([0.])], [3189, 'E-64-D', array([67.9817046])], [392622, 'Ritonavir', array([70.73946463])]]
+c3  :  [[10127622, 'Selumetinib', array([0.])], [3658, 'Hydroxyzine', array([8.88170457])], [941651, 'Thiothixene', array([9.82134313])], [10830, 'Diperodon', array([11.01098415])]]
+c4  :  [[6197, 'Cycloheximide', array([21.28102043])], [10445549, 'Galidesivir', array([0.])], [72378, 'Lycorine', array([13.51522058])], [135398748, 'Penciclovir', array([22.73681857])]]
+
+
+k2l4
+c1  :  [[72287, 'Methotrimeprazine', array([0.])], [66069, 'Triflupromazine hydrochloride', array([3.80884236])], [68539, 'Clomipramine hydrochloride', array([6.03267179])], [11223, 'Chlorphenoxamine hydrochloride', array([8.74712142])]]
+c2  :  [[5440, 'Thiethylperazine', array([0.])], [3658, 'Hydroxyzine', array([7.07979352])], [10127622, 'Selumetinib', array([10.17347815])], [1013959, 'Pyrimidine (FA-613)', array([11.22424736])]]

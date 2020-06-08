@@ -1,0 +1,26 @@
+6014 (Promethazine hydrochloride): HCl raus
+6084 (Papaverine): HCl raus
+6246 (Amodiaquine dihydrochloride): 2 HCl raus
+10830 (Diperodon): HCl raus
+11223 (Chlorphenoxamine hydrochloride): HCl raus
+
+22324 (Cetylpyridinium chlroride): Wasser und Cl- raus
+33958 (Tilorone): 2 HCl raus
+60749 (Gemcitabine hydrochloride): HCl raus
+62882 (Propanolol): HCl raus
+62978 (Doxazosin mesylate): Mesylat raus
+
+65335 (Ticlopidine): HCl raus
+66069 (Triflupromazine hydrochloride): HCl raus
+68539 (Cloipramine hydrochloride): HCl raus
+71420 (Loperamide): HCl raus
+80311 (Chloropyramine): HCl raus
+
+123596 (Imatinib mesylate): Mesylat raus
+2733525 (Tamoxifen citrate): Citrat raus
+3005572 (Toremifene citrate): Citrat raus
+6602611 (Fluphenazine hydrochloride): HCl raus
+57336515 (Gemcitabine hydrochloride): HCl raus
+
+16760621 (PJ34): HCl raus
+

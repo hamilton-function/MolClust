@@ -1,0 +1,52 @@
+-----------------------------------------------kmeans-------------------------------------------
+k16
+c1  medoid:  [4926, 'Promazine']
+c10  medoid:  [9962075, 'Dec-RVKR-CMK']
+c11  medoid:  [492405, 'Favipiravir']
+c12  medoid:  [166138, 'ADS-J1']
+c13  medoid:  [6246, 'Amodiaquine dihydrochloride']
+c14  medoid:  [213039, 'Darunavir']
+c15  medoid:  [441145, 'Monensin']
+c16  medoid:  [441139, 'Valinomycin']
+c2  medoid:  [78358496, 'Oligomycin']
+c3  medoid:  [122143, 'Methyl-beta-cyclodextrin']
+c4  medoid:  [11513676, 'Alisporivir']
+c5  medoid:  [2247, 'Astemizole']
+c6  medoid:  [5754, 'Hydrocortisone']
+c7  medoid:  [392622, 'Ritonavir']
+c8  medoid:  [275182, 'Berbamine']
+c9  medoid:  [37542, 'Ribavirin']
+
+
+k10
+c1  medoid:  [492405, 'Favipiravir']
+c10  medoid:  [213039, 'Darunavir']
+c2  medoid:  [78358496, 'Oligomycin']
+c3  medoid:  [62978, 'Doxazosin mesylate']
+c4  medoid:  [68539, 'Clomipramine hydrochloride']
+c5  medoid:  [11513676, 'Alisporivir']
+c6  medoid:  [122143, 'Methyl-beta-cyclodextrin']
+c7  medoid:  [166138, 'ADS-J1']
+c8  medoid:  [5754, 'Hydrocortisone']
+c9  medoid:  [9962075, 'Dec-RVKR-CMK']
+
+
+k6
+c1  medoid:  [2995, 'Desipramine']
+c2  medoid:  [11513676, 'Alisporivir']
+c3  medoid:  [62978, 'Doxazosin mesylate']
+c4  medoid:  [78358496, 'Oligomycin']
+c5  medoid:  [392622, 'Ritonavir']
+c6  medoid:  [122143, 'Methyl-beta-cyclodextrin']
+
+
+k4
+c1  medoid:  [11513676, 'Alisporivir']
+c2  medoid:  [68539, 'Clomipramine hydrochloride']
+c3  medoid:  [11433190, 'Nutlin']
+c4  medoid:  [78358496, 'Oligomycin']
+
+
+k2
+c1  medoid:  [78358496, 'Oligomycin']
+c2  medoid:  [68539, 'Clomipramine hydrochloride']

@@ -1,0 +1,1 @@
+ich denke das hier vielleicht nach Größe sortiert wurde, in c1 sind eher große Moleküle und in c2 eher kleinere
