@@ -671,9 +671,55 @@ def all_compute_pairwise_subspacedist_clustermap(clusteringdir,l):
 
 
 #input array:
-covdata = read_csv('E:\\MolClust\\cov2vect.csv')
+covdata = read_csv('/Users/dkazempour/Documents/MolClust-master/cov2vect.csv')
 krangelis = [n for n in range(24, 25) if n % 2 == 0]
 
+#get arary of labels/compound names
+compnamelabels = []
+for comp in covdata:
+    compname = vect2cid(comp)
+    compnamelabels.append(compname)
+
+print(compnamelabels)
+
+from matplotlib import pyplot as plt
+from scipy.cluster.hierarchy import dendrogram
+from sklearn.cluster import AgglomerativeClustering
+
+
+def plot_dendrogram(model, **kwargs):
+    # Create linkage matrix and then plot the dendrogram
+
+    # create the counts of samples under each node
+    counts = np.zeros(model.children_.shape[0])
+    n_samples = len(model.labels_)
+    for i, merge in enumerate(model.children_):
+        current_count = 0
+        for child_idx in merge:
+            if child_idx < n_samples:
+                current_count += 1  # leaf node
+            else:
+                current_count += counts[child_idx - n_samples]
+        counts[i] = current_count
+
+    linkage_matrix = np.column_stack([model.children_, model.distances_,
+                                      counts]).astype(float)
+
+    # Plot the corresponding dendrogram ; 120
+    dendrogram(linkage_matrix, color_threshold=110, labels=compnamelabels, **kwargs)
+
+# setting distance_threshold=0 ensures we compute the full tree.
+model = AgglomerativeClustering(distance_threshold=0, n_clusters=None)
+
+model = model.fit(covdata)
+plt.title('Hierarchical Clustering of Mol2Vec Embedded Compounds')
+# plot the top three levels of the dendrogram
+plot_dendrogram(model)
+plt.xlabel("CID")
+plt.ylabel("Linkage Distance")
+plt.show()
+
+'''
 #switch here for slink vs. kmeans
 bestres = get_best_clustering_by_silhouette(covdata, krangelis)
 
@@ -687,7 +733,7 @@ for e in zip(covdata,bestres[3]):
         clusresdict[label] = [vec]
     else:
         clusresdict[label].append(vec)
-
+'''
 #testrun for prototype
 #c1 = clusresdict[1]
 #mdc = get_medoid_compound(c1)
@@ -745,10 +791,10 @@ get_structure_image_clustering(clusrescomp, 'E:\\MolClust\\expres\\kmeans\\k24\\
 
 
 
-p = cid2vect(3005572)
-q = cid2vect(2733525)
-pqdist = proj_comp_dist_to_query('E:\\MolClust\\expres\\k10l8\\c9\\', 8, p, q)
-print('P-Q-DIST:',pqdist)
+#p = cid2vect(3005572)
+#q = cid2vect(2733525)
+#pqdist = proj_comp_dist_to_query('E:\\MolClust\\expres\\k10l8\\c9\\', 8, p, q)
+#print('P-Q-DIST:',pqdist)
 
 
 
@@ -758,4 +804,3 @@ print('P-Q-DIST:',pqdist)
 
 #compute_pairwise_subspacedist_clustermap('E:\\MolClust\\expres\\k4l4\\c2\\',4)
 #all_compute_pairwise_subspacedist_clustermap('E:\\MolClust\\expres\\k4l4\\',4)
-
